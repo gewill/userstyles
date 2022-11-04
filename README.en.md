@@ -13,13 +13,14 @@ A bunch of handy user stylesheets with multiple purposes, applicable to user sty
 
 ### [Global Font Series](https://github.com/francis-zhao/userstyles/tree/master/src/global-font)
 
-An user stylesheet to replace all fonts on web pages with Adobe, Microsoft, Huawei and other brands' series fonts such as `Source Han Sans`, `Microsoft YaHei`, `HarmonyOS Sans`, brings you a more unified and beautiful visual style.
+An user stylesheet to replace all fonts on web pages with Adobe, Microsoft, Huawei and other brands' series fonts such as `Source Han Sans`, `Microsoft YaHei`, `HarmonyOS Sans`, [LXGW WenKai](https://github.com/lxgw/LxgwWenKai), brings you a more unified and beautiful visual style.
 
 You can subscribe to the latest stable version as `UserCSS` (native) or `UserScript` (automatically converted) via [Greasy Fork](https://greasyfork.org/scripts/419362 'Greasy Fork').
 
 - [Global Font: Adobe-branded](https://greasyfork.org/scripts/419362)
 - [Global Font: Microsoft-branded](https://greasyfork.org/scripts/419363)
 - [Global Font: Huawei-branded](https://greasyfork.org/scripts/439505)
+- [Global Font: LXGW WenKai](https://greasyfork.org/scripts/454257)
 
 NOTE: Due to the lack of mutil-language supporting, `HarmonyOS` series fonts only support sans-serif fonts of Western (Latin, Cyrillic, Greek) and Chinese (Simplified, Traditional), serif fonts of Japanese, Korean and other language and sans-serif/monospaced fonts of all languages fallback to `Source` series fonts of Adobe. If you need to view non-Chinese webpages, please download the Adobe-branded font package or simply use `Global Font: Adobe-branded`!
 
